@@ -14,10 +14,10 @@
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
 	"nickNameBot": "yuki",
 	"prefix": "!",
-	"adminOnly": {61588852881193
+	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
-	61588852881193},
+	},
 	"adminBot": "61588852881193",
 	
 	"whiteListMode": {
