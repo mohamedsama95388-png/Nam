@@ -12,14 +12,14 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "toji",
+	"nickNameBot": "false",
 	"prefix": "!",
-	"adminOnly": {
+	"adminOnly": {61588852881193
 		"enable": false,
 		"ignoreCommand": []
-	},
-	"adminBot": ["61588724366451"],
-	["61588852881193"],
+	61588852881193},
+	"adminBot": ["61588852881193"],
+	
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
